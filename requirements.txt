@@ -1,0 +1,10 @@
+# Versions from the original project environment (Python 3.14.6).
+pandas==3.0.6
+numpy==2.5.4
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+joblib==1.6.0
+notebook==7.6.3
+streamlit==1.66.1
